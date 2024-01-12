@@ -1,4 +1,4 @@
-# Collaborating in gitbook (adding from Test Branch 2)
+# Collaborating in gitbook
 
 ## Using Live editing (adding from Test Branch 3)
 
