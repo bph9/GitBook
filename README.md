@@ -1,4 +1,4 @@
-# TO DO LIST2
+# TO DO LIST
 
 ## To do list
 
