@@ -1,6 +1,6 @@
 # Collaborating in gitbook (adding from Test Branch 2)
 
-## Using Live editing
+## Using Live editing (adding from Test Branch 3)
 
 Our gitbooks are currently set to "live editing" so you should be able to click the "Edit" button in the top nav then just make your edits. You don't need to manually save.&#x20;
 
@@ -12,7 +12,7 @@ Don't click "Publish" until we're ready to make it public.&#x20;
 
 
 
-## Not using live editing
+## Not using live editing (adding from Test Branch 3)
 
 Note: I can not fully test out how it might work once the book is published so here are some thoughts and draft of how I think it might work. - Suzanne
 
