@@ -26,7 +26,7 @@
 
 ### **Final review & quality control**
 
-* [ ] Tidy (adding from Test Branch 4)
+* [ ] Tidy
   * [ ] Pages presented in the best order for users?
   * [ ] Is it clear for each group what their steps are?
   * [ ] Are the global nav links set to the best options?
