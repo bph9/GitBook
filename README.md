@@ -4,7 +4,7 @@
 
 ### **Drafting/importing**
 
-* [ ] Import all existing content currently hosted on provider resources page.
+* [x] Import all existing content currently hosted on provider resources page.
 * [x] Edit all pages for new context and do first round of editing to streamline/improve as needed
 * [x] Create a style guide to evolve over course of project
 
@@ -24,9 +24,9 @@
   * [x] Pages ready for Caroline to look at again:
     * [x] [About page](https://app.gitbook.com/o/-Mhss\_HXW8CDoQmWCJNd/s/-MiNbOTSxTY4PuIFQpDb/)
 
-### **Final review & quality control** (adding from Test Branch 4)
+### **Final review & quality control**
 
-* [ ] Tidy (adding from Test Branch 4)
+* [ ] Tidy
   * [ ] Pages presented in the best order for users?
   * [ ] Is it clear for each group what their steps are?
   * [ ] Are the global nav links set to the best options?
