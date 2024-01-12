@@ -1,4 +1,4 @@
-# TO DO LIST (adding from Test Branch 1)
+# TO DO LIST
 
 ## To do list
 
