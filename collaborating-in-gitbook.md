@@ -1,6 +1,6 @@
 # Collaborating in gitbook
 
-## Using Live editing
+## Using Live editing Nikki
 
 Our gitbooks are currently set to "live editing" so you should be able to click the "Edit" button in the top nav then just make your edits. You don't need to manually save.
 
